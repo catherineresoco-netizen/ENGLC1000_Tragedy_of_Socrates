@@ -1,3 +1,3 @@
-Version 6 — Atmospheric gallery
-
-Replace index.html in your existing website folder. Keep your downloaded images/ folder unchanged. Backgrounds reuse David, Peyron and Raphael paintings with dark brown overlays; no new downloads are required if those files are present. The artwork downloader and manifest are included for new installations. Preview index.html in your browser before publishing.
+Version 7 — Minimal gallery
+Replace index.html in your existing website folder. Keep your images folder. No new image is required: Room III uses the existing Enabling Act document if reichstag.jpg is absent. To use the optional historical photo, open https://commons.wikimedia.org/wiki/File:Berlin-Reichstag_1929.jpg and save the original file as images/reichstag.jpg. Commons marks it public domain but flags missing US status documentation; check rights for your use. All original essay copy and citations retained.
+Room IV rotates portraits with pause/manual controls.
