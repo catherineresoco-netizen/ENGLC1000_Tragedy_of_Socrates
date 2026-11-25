@@ -1,5 +1,3 @@
-Version 5: borderless exhibition, uniform #100D0B background.
+Version 6 — Atmospheric gallery
 
-If you already downloaded artwork, copy this index.html over your existing index.html in socrates-dark-gallery. Keep your existing images/ folder unchanged. No need to rerun the downloader.
-
-For a fresh install, use python download_art.py or download originals manually using artwork.json. Upload index.html and images/ to GitHub Pages.
+Replace index.html in your existing website folder. Keep your downloaded images/ folder unchanged. Backgrounds reuse David, Peyron and Raphael paintings with dark brown overlays; no new downloads are required if those files are present. The artwork downloader and manifest are included for new installations. Preview index.html in your browser before publishing.
