@@ -1,0 +1,42 @@
+[
+  {
+    "local": "images/david.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Death_of_Socrates_-_Google_Art_Project.jpg"
+  },
+  {
+    "local": "images/peyron.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean_Francois_Pierre_Peyron_-_The_Death_of_Socrates_-_Google_Art_Project.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jean_Francois_Pierre_Peyron_-_The_Death_of_Socrates_-_Google_Art_Project.jpg"
+  },
+  {
+    "local": "images/madison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/John_Vanderlyn_-_James_Madison_-_Google_Art_Project.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Vanderlyn_-_James_Madison_-_Google_Art_Project.jpg"
+  },
+  {
+    "local": "images/raphael.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Raphael_School_of_Athens.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Raphael_School_of_Athens.jpg"
+  },
+  {
+    "local": "images/enabling-act.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Enabling_act_of_1933_printed_in_the_Reich_Law_Gazette.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Enabling_act_of_1933_printed_in_the_Reich_Law_Gazette.jpg"
+  },
+  {
+    "local": "images/tocqueville.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Alexis_de_tocqueville.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexis_de_tocqueville.jpg"
+  },
+  {
+    "local": "images/mill.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JohnStuartMill.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:JohnStuartMill.jpg"
+  },
+  {
+    "local": "images/cignaroli.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giambettino_Cignaroli_-_The_Death_of_Socrates_-_WGA04876.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Giambettino_Cignaroli_-_The_Death_of_Socrates_-_WGA04876.jpg"
+  }
+]
